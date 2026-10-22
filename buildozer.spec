@@ -9,7 +9,7 @@ source.main = main.py
 
 version = 1.0
 
-requirements = python3==3.12.1,kivy,openpyxl
+requirements = python3,kivy,openpyxl
 
 presplash.filename =
 icon.filename =
